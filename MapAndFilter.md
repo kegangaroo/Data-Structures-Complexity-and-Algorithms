@@ -10,6 +10,7 @@ Formatting:
 - the map function is that it doesn’t return a specific data type, but rather, an python iterable data
 
 ### Example 1
+
 ```python
 # Example
 def square(num):
@@ -27,6 +28,7 @@ Original Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 Array Squared: [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 
 ### Example 2
+
 ```python
 # Example 2
 
@@ -49,7 +51,9 @@ HELLO WORLD!
 HELLO WORLD!
 
 ## Filter Function
+
 ### How does it work?
+
 - The idea of the filter function is to filter out items from a data set that meets a certain condition.
 Formatting:
   filter(bool_returning_function, sequence)
@@ -57,6 +61,7 @@ Formatting:
 - sequence: any iterable data type
 
 ### Example 1
+
 ```python
 # Example 3
 
@@ -73,6 +78,7 @@ output:
 Odd Numbers from 1 to 100: [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73, 75, 77, 79, 81, 83, 85, 87, 89, 91, 93, 95, 97, 99]
 
 ### Palindrome Example
+
 ```python
 # Palindromic Numbers from 1 to 10000
 
