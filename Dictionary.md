@@ -25,7 +25,8 @@ print('Username:', sammy['username'])
 print('Online Status:', sammy['online'])
 print('Follower Count:', sammy['followers'])
 ```
-**Output:** 
+**Output:**
+--
 Sammy dict: {'username': 'sammy', 'online': True, 'followers': 42}
 Username: sammy
 Online Status: True
@@ -56,7 +57,8 @@ sammy['username'] = 'SammySammy'
 
 print('Sammy Dict:', sammy)
 ```
-**Output:** 
+**Output:**
+--
 Sammy Dict: {'username': 'SammySammy', 'online': True, 'followers': 52, 'verified': True}
 
 ### Dictionary Deletions
@@ -82,7 +84,8 @@ print('--\n\n')
 del sammy
 print('Deleting sammy, should create an error when referenced again', sammy)
 ```
-**Output:** 
+**Output:**
+--
 followers key deleted: {'username': 'sammy', 'online': True}
 emptying out a dictionary {}
 NameError: name 'sammy' is not defined
@@ -143,6 +146,7 @@ data2_dict = {x : int(x)**2 for x in example_data2}
 
 print('data2_dict:', data2_dict)
 ```
-**Output:** 
+**Output:**
+--
 data_dict: {'one': 3, 'two': 3, 'three': 5}
 data2_dict: {'1': 1, '2': 4, '3': 9, '4': 16, '5': 25}
