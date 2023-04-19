@@ -25,7 +25,7 @@ print('Username:', sammy['username'])
 print('Online Status:', sammy['online'])
 print('Follower Count:', sammy['followers'])
 ```
-**Output:**
+***Output:***
 -
 Sammy dict: {'username': 'sammy', 'online': True, 'followers': 42}
 Username: sammy
