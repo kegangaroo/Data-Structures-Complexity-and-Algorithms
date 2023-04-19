@@ -34,16 +34,13 @@ Follower Count: 42
 ### Keys
 Keys must be immutabel, are a specific location to the assigned value, two keys of identical names cannot exist, and the newest one will superceed the older one
 
-
-
-
 ### Values
 Values within a key may be anything (specifically any data type)
 
 ### Dictionary Updates
 Additions and modifications cann be made stating the key, and the new value inside to either create a new key, or override the value already in place
  
-###EXAMPLE
+### EXAMPLE
 ```python
 # Update Example
 
