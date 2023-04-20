@@ -1,8 +1,8 @@
 # Sets
-An Unordered collection without repitition
-mathematical way to describe collection of different unique objects
-Sets membership operation is one of the fastest operations compared to other python data types
-Sets are mutable and have many methods and operations that can mutate the data
+- An Unordered collection without repitition
+- mathematical way to describe collection of different unique objects
+- Sets membership operation is one of the fastest operations compared to other python data types
+- Sets are mutable and have many methods and operations that can mutate the data
 
 ## Define a Set
 ```python
