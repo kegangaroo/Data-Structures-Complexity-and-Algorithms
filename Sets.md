@@ -228,7 +228,7 @@ print('--')
 print('set 1 disjoint set 2 check:', set1.isdisjoint(set2)) # Therefore .isdisjoint() evaluates to True
 print('set 1 disjoint set 3 check:', set2.isdisjoint(set3))
 ```
---
+
 ### Assignment Operation & Updating Methods
 This is a way to affect an original set with another and assign the result back to the original set
 ```python
