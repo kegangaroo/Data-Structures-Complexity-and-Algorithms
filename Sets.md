@@ -26,7 +26,7 @@ example_set2: {'o', 'e', 'h', 'l'}
 
 Singleton: {7}
 Empty Set: set()
---
+
 ### Basic Built-in Functions
 ```python
 # Basic Built-in Functions w/ Sets
@@ -59,7 +59,7 @@ Maximum Value: o
 tup to set: {2, 3, 5, 7}
 Original Array: ['orange', 'orange', 'watermelon', 'apple', 'kiwi', 'kiwi', 'kiwi', 'kiwi', 'kiwi', 'kiwi', 'kiwi', 'kiwi', 'kiwi', 'kiwi']
 list to set: {'watermelon', 'orange', 'apple', 'kiwi'}
---
+
 ### Membership
 ```python
 # Membership Example
@@ -116,12 +116,12 @@ print('Empty languages:', languages)
 ```
 ***Output:***
 Languages set: {'HTML', 'CSS', 'JavaScript', 'Python', 'Haskell', 'Java', 'C', 'C#'}
---
+
 HTML deleted: {'CSS', 'JavaScript', 'Python', 'Haskell', 'Java', 'C', 'C#'}
 CSS deleted: {'JavaScript', 'Python', 'Haskell', 'Java', 'C', 'C#'}
 Randomly Removed value: JavaScript
 Empty languages: set()
---
+
 ## Set Operators
 
 - Union - The joining/combining of two sets
